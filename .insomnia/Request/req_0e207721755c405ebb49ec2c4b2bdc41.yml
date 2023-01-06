@@ -1,0 +1,34 @@
+_id: req_0e207721755c405ebb49ec2c4b2bdc41
+type: Request
+parentId: fld_16e1c89348014457bb14ef9c9ccdd6d6
+modified: 1671561030669
+created: 1671234742722
+url: https://api.remotebootcamp.dev/api/friends/{id}/{statusId}
+name: updateFriendStatus
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title": "string",
+      "bio": "string",
+      "summary": "string",
+      "headline": "string",
+      "slug": "string",
+      "statusId": "NotSet",
+      "primaryImage": "string"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671227149678
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

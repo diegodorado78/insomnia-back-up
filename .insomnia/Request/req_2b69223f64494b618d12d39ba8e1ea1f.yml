@@ -1,0 +1,25 @@
+_id: req_2b69223f64494b618d12d39ba8e1ea1f
+type: Request
+parentId: fld_5277b8fe35894688a7c0a6482d18b889
+modified: 1672177077248
+created: 1672177071752
+url: https://api.remotebootcamp.dev/api/events/feeds
+name: GET EVENTS STARTING SOON
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671648581571.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

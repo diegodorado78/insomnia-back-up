@@ -1,0 +1,31 @@
+_id: req_e69646eb491f4816a46dc86a9d932e4e
+type: Request
+parentId: fld_2cabb5e142bc408d844b3123744b8dcd
+modified: 1670687894685
+created: 1670629604107
+url: https://api.remotebootcamp.dev/api/authors
+name: createAuthor
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "firstName": "Gabriel",
+      "lastName": "Garcia",
+      "age": 80,
+      "salary": 88000
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670628176149.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

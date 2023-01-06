@@ -1,0 +1,29 @@
+_id: req_5d2265e82eab42a9acdc6ca9e47f83cb
+type: Request
+parentId: fld_b075ae7300f14c8fbb75cc2695868ca4
+modified: 1670687776423
+created: 1670626987208
+url: https://api.remotebootcamp.dev/api/users/login
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "user@example.com",
+      "password": "Sabio_password7865!",
+      "tenantId": "U04DXKLUCFK"}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670300760464.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

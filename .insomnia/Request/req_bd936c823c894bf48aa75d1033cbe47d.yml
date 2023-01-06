@@ -1,0 +1,37 @@
+_id: req_bd936c823c894bf48aa75d1033cbe47d
+type: Request
+parentId: fld_28fbe83b1c304d5c9f12a73d71c86783
+modified: 1672192500257
+created: 1671583964564
+url: https://api.remotebootcamp.dev/api/jobs
+name: CREATE JOB
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "title": "Devops Developer",
+      "description": "create services and Apis",
+      "summary": "Medellin, Antioquia",
+      "pay": "190000",
+      "slug": "Creadores",
+      "statusId": "Active",
+      "techCompanyId": 65410,
+      "skills": [
+        "improve"
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671583964564
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,44 @@
+_id: req_886e80573b1449b599fdd8418bc8d47c
+type: Request
+parentId: fld_5277b8fe35894688a7c0a6482d18b889
+modified: 1672249817548
+created: 1672103018010
+url: https://api.remotebootcamp.dev/api/events/66510
+name: UPDATE EVENT
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: >-
+    {
+      "id": 66510,
+      "metaData": {
+    					"dateStart": "2022-12-28T00:00:00",
+    					"dateEnd": "2022-12-29T00:00:00",
+    					"location": {
+    						"latitude": 3.3695408959489663,
+    						"longitude": -76.52756161829818,
+    						"zipCode": "760000",
+    						"address": "Cali-Colombia"
+    					}
+    				},
+      "name": "Trip to Cali",
+      "headline": "spend time with family",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    	"summary": "Family trip",
+      "slug": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20190425170948/friends-on-road-trip.jpg",
+      "statusId": "Active"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671968632156.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

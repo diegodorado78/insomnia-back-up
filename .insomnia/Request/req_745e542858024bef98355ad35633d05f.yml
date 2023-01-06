@@ -1,0 +1,43 @@
+_id: req_745e542858024bef98355ad35633d05f
+type: Request
+parentId: fld_5277b8fe35894688a7c0a6482d18b889
+modified: 1672192541398
+created: 1672096652391
+url: https://api.remotebootcamp.dev/api/events
+name: POST EVENT
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >
+    {
+      "metaData": {
+        "dateStart": "2023-02-13",
+        "dateEnd": "2023-02-13",
+        "location": {
+          "latitude": 2.45584608457778,  
+          "longitude": -76.59734719301635,
+          "zipCode": "190003",
+          "address": "Popayan-Colombia"
+        }
+      },
+      "name": "Sister's birthday",
+      "headline": "35th birthday",
+      "description": "Special day for my sister and our family",
+      "summary": "special day ",
+      "slug": "https://cdn.greenvelope.com/blog/wp-content/uploads/AdobeStock_133800814-scaled.jpeg",
+      "statusId": "Active"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1672096652391
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

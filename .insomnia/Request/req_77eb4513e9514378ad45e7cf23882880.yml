@@ -1,0 +1,49 @@
+_id: req_77eb4513e9514378ad45e7cf23882880
+type: Request
+parentId: fld_9a63b6acd9e24e2a9bdf9f8d70701e38
+modified: 1672192444226
+created: 1671584571454
+url: https://api.remotebootcamp.dev/api/techcompanies
+name: POST COMPANY
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+      "name": "Abble Corp",
+      "profile": "Abble",
+      "summary": "lorem ipsum",
+      "headline": "Markosoft headline",
+      "contactInformation": "string",
+      "slug": "devices",
+      "statusId": "Active",
+      "images": [
+        {
+          "imageTypeId": 1,
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GCtZMzmnVwuqdgNzniwrRQhYuPHXziD8TQ&usqp=CAU"
+        }
+      ],
+      "urls": [
+        "string","string2"
+      ],
+      "tags": [
+        "string","string3"
+      ],
+      "friendIds": [
+        65383
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671584571454
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,35 @@
+_id: req_b039f4e5c8984d99b53e3487b43e5d43
+type: Request
+parentId: fld_e58860e3eaab4ccb886a85597ab5b29c
+modified: 1671212688357
+created: 1671066164725
+url: https://api.remotebootcamp.dev/api/entities/pets/1569690618
+name: updateByEntityId
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+     "name": "WINTER",
+     "size": "medium",
+     "color": "black",
+    	"imgUrl":""
+    }
+parameters:
+  - id: pair_07e11348847846ff903cddfc1401f19c
+    name: ""
+    value: "800640989"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670936319538
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

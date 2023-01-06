@@ -1,0 +1,30 @@
+_id: req_ce25fefafffc439286686c88fd464e64
+type: Request
+parentId: wrk_6a0c42a85fa94202b2c4e5fe196b59ac
+modified: 1667671131543
+created: 1667425295875
+url: localhost:3200/api/v1/products
+name: Create product
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+     "name":"New product",
+    	"price":1000
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_12a9adb1a75b40a5a6d4573ba398b4ea
+authentication: {}
+metaSortKey: -1659220974416
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

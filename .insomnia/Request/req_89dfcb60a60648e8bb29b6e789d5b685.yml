@@ -1,0 +1,25 @@
+_id: req_89dfcb60a60648e8bb29b6e789d5b685
+type: Request
+parentId: fld_2a75d3214d874a54a4442fc9a329eac1
+modified: 1672942578234
+created: 1671236687548
+url: https://api.remotebootcamp.dev/api/users/{id}/{userName}/{role}
+name: getUserRol
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1672942569752
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

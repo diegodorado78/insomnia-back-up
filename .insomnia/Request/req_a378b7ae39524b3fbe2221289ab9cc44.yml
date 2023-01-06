@@ -1,0 +1,29 @@
+_id: req_a378b7ae39524b3fbe2221289ab9cc44
+type: Request
+parentId: fld_dfc6d658d35b4f3e89862305ddc4705f
+modified: 1669339665381
+created: 1669323974902
+url: localhost:3000/notes/3
+name: editNote
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |
+    
+    	{
+    	"text": "111"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1666797068160.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

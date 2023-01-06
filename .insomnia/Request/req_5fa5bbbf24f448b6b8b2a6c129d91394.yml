@@ -1,0 +1,28 @@
+_id: req_5fa5bbbf24f448b6b8b2a6c129d91394
+type: Request
+parentId: fld_5fc7b3f11c5b42b684eae56019b68087
+modified: 1670703564318
+created: 1670700895819
+url: https://api.remotebootcamp.dev/api/blogs
+name: createBlog
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-2
+      {"authorId": 615575822,
+      "title": "how to start with Angular",
+      "content": "study,train,eat,rest,repeat"}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670691160551.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

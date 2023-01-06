@@ -1,0 +1,29 @@
+_id: req_fd9ef652dff7485d9036828c1117ffcd
+type: Request
+parentId: fld_16e1c89348014457bb14ef9c9ccdd6d6
+modified: 1671289579723
+created: 1671227077143
+url: https://api.remotebootcamp.dev/api/friends?pageIndex=0&pageSize=10
+name: getFriends
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_3fdade6efec94f2a9d83cd11fe9f6531
+    name: pageIndex
+    value: "0"
+    description: ""
+  - id: pair_7823a69cd37c44f8a5704a7a6f9b01ab
+    name: pageSize
+    value: "10"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1671227077143
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

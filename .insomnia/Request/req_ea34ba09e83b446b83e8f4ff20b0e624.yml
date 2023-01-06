@@ -1,0 +1,28 @@
+_id: req_ea34ba09e83b446b83e8f4ff20b0e624
+type: Request
+parentId: fld_dfc6d658d35b4f3e89862305ddc4705f
+modified: 1669323419646
+created: 1669323391069
+url: localhost:3000/categories
+name: createCategory
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    
+    	{"title": "leisure",
+    	"text": " create as many categories you want"}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1664271703595.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

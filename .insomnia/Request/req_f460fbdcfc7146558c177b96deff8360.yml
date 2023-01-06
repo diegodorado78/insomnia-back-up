@@ -1,0 +1,29 @@
+_id: req_f460fbdcfc7146558c177b96deff8360
+type: Request
+parentId: fld_dfc6d658d35b4f3e89862305ddc4705f
+modified: 1669380928327
+created: 1669322432724
+url: localhost:3000/notes
+name: createNote
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    
+    	{"title": "daily routine",
+    	"text":"lalala",
+    	"price":123}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669322432725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

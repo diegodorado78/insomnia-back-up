@@ -1,0 +1,38 @@
+_id: req_b998d94e99cf49ee9b497409243d5864
+type: Request
+parentId: fld_28fbe83b1c304d5c9f12a73d71c86783
+modified: 1671736153921
+created: 1671589858204
+url: https://api.remotebootcamp.dev/api/jobs/65413
+name: UPDATEJOB
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "id":65626 ,
+      "title": "Full Stack Developer",
+      "description": "create services and user interefaces",
+      "summary": "Lorem Ipsum",
+      "pay": "150000",
+      "slug": "BBELOPERS",
+      "statusId": "Active",
+      "techCompanyId": 65418,
+      "skills": [
+        "angular"
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671316351964.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

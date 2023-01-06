@@ -1,0 +1,50 @@
+_id: req_c8b052d81bbb45b5b4f234dc9f6ef645
+type: Request
+parentId: fld_9a63b6acd9e24e2a9bdf9f8d70701e38
+modified: 1672099019233
+created: 1671757368931
+url: https://api.remotebootcamp.dev/api/techcompanies/66054
+name: UPDATE COMPANY
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: >-
+    {
+      "id": 66054,
+      "name": "Globant Col",
+      "profile": "Tech company",
+      "summary": "IT Company",
+      "headline": " Software Development",
+      "contactInformation": " Harry Petro",
+      "slug": "Ba-Argent",
+      "statusId": "Active",
+      "images": [
+        {
+          "imageTypeId": 1,
+          "imageUrl": "https://statics.globant.com/production/public/2022-04/spain_2.png"
+        }
+      ],
+      "urls": [
+        "string","string2"
+      ],
+      "tags": [
+        "string","string3"
+      ],
+      "friendIds": [
+        65383,
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671584116286.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

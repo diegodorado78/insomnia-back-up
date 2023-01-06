@@ -1,0 +1,34 @@
+_id: req_647d793c8c6c455a992ef6b179894383
+type: Request
+parentId: fld_16e1c89348014457bb14ef9c9ccdd6d6
+modified: 1672071056350
+created: 1671227193199
+url: https://api.remotebootcamp.dev/api/friends
+name: createFriend
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"title": "Riley Jules",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "summary": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "headline": "asfgd",
+      "slug": "IT",
+      "statusId": "Active",
+      "primaryImage": "https://img.freepik.com/foto-gratis/retrato-joven-sonriente-gafas_171337-4842.jpg?w=2000"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671227193199
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

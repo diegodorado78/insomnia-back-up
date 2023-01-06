@@ -1,0 +1,25 @@
+_id: req_3d1300451d014fc8af05b767ef501e26
+type: Request
+parentId: fld_5fc7b3f11c5b42b684eae56019b68087
+modified: 1670704215689
+created: 1670700868493
+url: https://api.remotebootcamp.dev/api/blogs
+name: readBlogs
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_d7b02a2337cb4968b3e8d1a2db3f1b7a
+    name: id
+    value: "1894705658"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1670700868493
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

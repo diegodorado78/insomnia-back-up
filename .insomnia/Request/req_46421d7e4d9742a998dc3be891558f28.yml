@@ -1,0 +1,21 @@
+_id: req_46421d7e4d9742a998dc3be891558f28
+type: Request
+parentId: fld_b075ae7300f14c8fbb75cc2695868ca4
+modified: 1670626980619
+created: 1670626860833
+url: https://api.remotebootcamp.dev/api/users/current
+name: current user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670626860833
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

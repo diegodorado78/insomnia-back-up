@@ -1,0 +1,29 @@
+_id: req_802f45402789499fa3f5baa190916185
+type: Request
+parentId: fld_b075ae7300f14c8fbb75cc2695868ca4
+modified: 1670628082261
+created: 1670626962401
+url: https://api.remotebootcamp.dev/api/users?pageIndex=0&pageSize=10
+name: users
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_f0ebf84eda20434cab96faefa98f4858
+    name: pageIndex
+    value: "0"
+    description: ""
+  - id: pair_167b69fd1568421f8550e678a360afcf
+    name: pageSize
+    value: "10"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1669974660096.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

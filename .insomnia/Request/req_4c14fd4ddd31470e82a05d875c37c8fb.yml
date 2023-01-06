@@ -1,0 +1,31 @@
+_id: req_4c14fd4ddd31470e82a05d875c37c8fb
+type: Request
+parentId: fld_e58860e3eaab4ccb886a85597ab5b29c
+modified: 1671165963738
+created: 1671064565203
+url: https://api.remotebootcamp.dev/api/entities/pets
+name: createEntity
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+     "name": "Summer",
+     "size": "Medium",
+     "color": "Blonde",
+    	"imgUrl":"https://media.istockphoto.com/id/509052128/photo/golden-retriever-sitting-in-front-of-a-white-background.jpg?s=612x612&w=0&k=20&c=ElpbUJyqy2vPdkzfrCin4thzBvEveakY6J1wNyz0Gkk="
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671064565203
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

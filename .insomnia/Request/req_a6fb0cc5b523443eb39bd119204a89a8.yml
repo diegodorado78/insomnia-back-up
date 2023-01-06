@@ -1,0 +1,21 @@
+_id: req_a6fb0cc5b523443eb39bd119204a89a8
+type: Request
+parentId: fld_9a63b6acd9e24e2a9bdf9f8d70701e38
+modified: 1671584975584
+created: 1671584941184
+url: https://api.remotebootcamp.dev/api/techcompanies?pageIndex=0&pageSize=10
+name: GET COMPANIES
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671584268009
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

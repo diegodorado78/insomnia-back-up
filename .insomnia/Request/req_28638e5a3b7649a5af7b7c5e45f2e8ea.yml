@@ -1,0 +1,31 @@
+_id: req_28638e5a3b7649a5af7b7c5e45f2e8ea
+type: Request
+parentId: wrk_6a0c42a85fa94202b2c4e5fe196b59ac
+modified: 1667509956849
+created: 1667501041760
+url: localhost:3200/api/v1/products
+name: Update product
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+     "name":"New product",
+    	"price":1000,
+    	"image":"http://placeimg.com/640/480"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_12a9adb1a75b40a5a6d4573ba398b4ea
+authentication: {}
+metaSortKey: -1659220974366
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

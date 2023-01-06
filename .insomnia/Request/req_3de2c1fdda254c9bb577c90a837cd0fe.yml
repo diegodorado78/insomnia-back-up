@@ -1,0 +1,25 @@
+_id: req_3de2c1fdda254c9bb577c90a837cd0fe
+type: Request
+parentId: fld_b075ae7300f14c8fbb75cc2695868ca4
+modified: 1670627302751
+created: 1670627273497
+url: https://api.remotebootcamp.dev/api/users/logout
+name: logout
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670137710280.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,25 @@
+_id: req_6b48720a91844ad0881b99f93d7a4ad7
+type: Request
+parentId: fld_5277b8fe35894688a7c0a6482d18b889
+modified: 1672156391849
+created: 1672096848296
+url: https://api.remotebootcamp.dev/api/events/search?pageIndex=0&pageSize=10&dateStart=2022-12-20&dateEnd=2022-12-30
+name: GET EVENTS BY DATE
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671840611922.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,35 @@
+_id: req_e477aa04ed884a24bc6b63c5b4fab397
+type: Request
+parentId: fld_5fc7b3f11c5b42b684eae56019b68087
+modified: 1670705530875
+created: 1670705239903
+url: https://api.remotebootcamp.dev/api/blogs/631876745
+name: UpdateBlog
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "id": 631876745,
+      "authorId": 615575822,
+      "title": "learn svelte",
+      "content": "study,train,work,rest,repeat"
+    }
+parameters:
+  - id: pair_3803c827f268435799ed2a177d10defd
+    name: ""
+    value: "631876745"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670705239903
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

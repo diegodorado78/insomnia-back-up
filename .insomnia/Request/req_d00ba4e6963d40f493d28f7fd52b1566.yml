@@ -1,0 +1,29 @@
+_id: req_d00ba4e6963d40f493d28f7fd52b1566
+type: Request
+parentId: fld_dfc6d658d35b4f3e89862305ddc4705f
+modified: 1669324921814
+created: 1669324893911
+url: localhost:3000/categories/12
+name: editCategory
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |
+    
+    	{
+    	"text": "Education"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1666165727019.0625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

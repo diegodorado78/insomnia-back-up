@@ -1,0 +1,29 @@
+_id: req_fe85822ba4224216b7c5e3879c075c63
+type: Request
+parentId: fld_e58860e3eaab4ccb886a85597ab5b29c
+modified: 1671066261827
+created: 1671066258180
+url: https://api.remotebootcamp.dev/api/entities/pets
+name: getAll
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_07e11348847846ff903cddfc1401f19c
+    name: ""
+    value: "800640989"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670957693815.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,24 @@
+_id: req_318f4ec57bd2445bbc48db30157a3b6e
+type: Request
+parentId: fld_36567050f46a4509855a768b4b0cf358
+modified: 1672329054696
+created: 1672328789774
+url: https://api.remotebootcamp.dev/api/files
+name: POST FILES
+description: ""
+method: POST
+body:
+  mimeType: application/octet-stream
+  fileName: /Users/diegodorado/Desktop/Captura de pantalla 2022-12-06 a la(s)
+    6.44.32 p.m..png
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672328789774
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

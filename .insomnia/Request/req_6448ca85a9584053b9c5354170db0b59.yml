@@ -1,0 +1,21 @@
+_id: req_6448ca85a9584053b9c5354170db0b59
+type: Request
+parentId: wrk_6a0c42a85fa94202b2c4e5fe196b59ac
+modified: 1667510060896
+created: 1667501666304
+url: localhost:3200/api/v1/products/1394842b-8cf7-4dc1-8776-32e28200db9e
+name: Delete product
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659220974266
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

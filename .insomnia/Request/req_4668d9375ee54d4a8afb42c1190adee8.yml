@@ -1,0 +1,21 @@
+_id: req_4668d9375ee54d4a8afb42c1190adee8
+type: Request
+parentId: wrk_6a0c42a85fa94202b2c4e5fe196b59ac
+modified: 1667672829186
+created: 1667503244648
+url: localhost:3200/api/v1/products/1--
+name: Get product
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659220974441
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
